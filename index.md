@@ -1,14 +1,18 @@
-👋 Welcome to my page!
+# 👋 Welcome to My Page!
 
-This space is where I share my current work, research interests, and exploratory projects - especially those focused on measurement techiques and user research. 
-You will find items that reflects my evolving curiosity and the lesson learned through trial and error. It's a work-in-progress, just like any research process itself. 
+This space is where I share my current work, research interests, and exploratory projects—especially those focused on **measurement techniques** and **user research**. You'll find content that reflects my evolving curiosity and the lessons learned through trial and error. It's a work-in-progress, just like any research process.
 
-🔍Right Now... 
-Currently, I'm developing guides for the following topics will share more as they are being developed!
+## 🔍 Right Now...
 
-* Survey Design and Analysis Workflow
-* Automate Survey Analysis to Report Building
-* Survivial Analysis
-* Simulation Studies
+I'm currently developing guides and tools for the following topics, and will share more as they evolve:
 
-Thank you for stopping by! Feel free to explore, reach out, and follow along as this space grows. 
+- **Survey Design and Analysis Workflow**  
+- **Automating Survey Analysis and Report Building**  
+- **Survival Analysis**  
+- **Simulation Studies**
+
+---
+
+Thank you for stopping by! Feel free to explore, reach out, and follow along as this space grows.
+
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/cary-k-jim-40046152/)
