@@ -1,17 +1,16 @@
-# 👋 Welcome to My Page!
+👋 Welcome to My Page!
 
-This space is where I share my current work, research interests, and exploratory projects—especially those focused on **measurement techniques** and **user research**. You'll find content that reflects my evolving curiosity and the lessons learned through trial and error. It's a work-in-progress, just like any research process.
+This space is where I share my current work, research interests, and exploratory projects—especially those focused on measurement techniques and user research.
+You'll find content that reflects my evolving curiosity and the lessons learned through trial and error. It's a work-in-progress, just like any research process.
 
-## 🔍 Right Now...
+🔍  Right Now...
 
 I'm currently developing guides and tools for the following topics, and will share more as they evolve:
 
-- **Survey Design and Analysis Workflow**  
-- **Automating Survey Analysis and Report Building**  
-- **Survival Analysis**  
-- **Simulation Studies**
-
----
+- Survey Design and Analysis Workflow  
+- Automating Survey Analysis and Report Building  
+- Survival Analysis  
+- Simulation Studies
 
 Thank you for stopping by! Feel free to explore, reach out, and follow along as this space grows.
 
