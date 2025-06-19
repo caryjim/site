@@ -2,8 +2,6 @@
 layout: default
 title: Posts
 nav_order: 2
-has_children: true
-permalink: /blog/
 ---
 
 # 📝 Blog Entries
@@ -13,7 +11,11 @@ Welcome! Here you'll find posts on survey design, measurement techniques, and ot
 ## Posts
 
 <ul>
-  {% for post in site.posts %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
+  {% for post in site.posts %}
+  <li>
+    <a href="{{ post.url }}">{{ post.title }}</a>
+    <br>
+    <small>{{ post.date | date: "%B %d, %Y" }}</small>
+  </li>
+  {% endfor %}
 </ul>
