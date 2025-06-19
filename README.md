@@ -1,2 +1,2 @@
-# site
+# ReadMe
 Repo for GitHub Page 
