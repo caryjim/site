@@ -5,7 +5,7 @@ You'll find content that reflects my evolving curiosity and the lessons learned 
 
 🔍  Right Now...
 
-I'm currently developing guides and tools for the following topics, and will share more as they evolve:
+I'm developing guides and tools for the following topics, and will share more as they evolve:
 
 - Survey Design and Analysis Workflow  
 - Automating Survey Analysis and Report Building  
