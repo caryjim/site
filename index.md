@@ -1,3 +1,9 @@
+---
+layout: default
+title: Home
+nav_order: 1
+---
+
 👋 Welcome to My Page!
 
 This space is where I share my current work, research interests, and exploratory projects—especially those focused on measurement techniques and user research.
