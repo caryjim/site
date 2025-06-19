@@ -1,7 +1,4 @@
 theme: minima
-url: "https://caryjim.github.io"
-baseurl: ""  # Leave empty for user/organization site
-
 title: Data and Research
 author: Cary K. Jim
 description: A space for sharing research interests, methods, and exploratory work. 
