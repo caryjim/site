@@ -7,5 +7,6 @@ permalink: /blog/
 ---
 
 # 📝 Blog Entries
+#Landing page
 
-Welcome to my blog! Here you'll find posts on survey design, measurement techniques, and other user research topics.
+Welcome! Here you'll find posts on survey design, measurement techniques, and other user research topics.
