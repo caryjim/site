@@ -1,1 +1,1 @@
-title: Cary K. Jim's Homepage
+Welcome to my page!
