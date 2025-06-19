@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Landing Page
+title: Post
 nav_order: 2
 has_children: true
 permalink: /blog/
